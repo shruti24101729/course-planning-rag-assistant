@@ -1,0 +1,200 @@
+SOURCE: MIT Academic Policies and Procedures - Undergraduate Edition
+URL: https://registrar.mit.edu/registration-academics/academic-policies-procedures
+DATE ACCESSED: 2026-03-27
+COVERAGE: Academic policies: grading, repeats, credit limits, withdrawal, prerequisites
+
+==============================================================================
+MIT UNDERGRADUATE ACADEMIC POLICIES AND PROCEDURES
+Office of the Registrar
+==============================================================================
+
+SECTION A: GRADING POLICIES
+----------------------------
+
+A.1 Grading System
+MIT uses a 5.0-point grading scale:
+  A (5.0) – Exceptional; outstanding work
+  B (4.0) – Good; above average performance
+  C (3.0) – Satisfactory; meets basic requirements
+  D (2.0) – Passing; barely acceptable
+  F (1.0) – Failing; subject must be repeated to receive credit
+
+A.2 Pass/Fail Option
+- Undergraduate students may elect to take any non-required subject on a Pass/Fail (P/F) basis.
+- Required departmental subjects (Foundations and Headers) CANNOT be taken P/F.
+- Advanced Undergraduate Subjects (AUS) CANNOT be taken P/F.
+- Unrestricted electives and GIRs (with departmental approval) may be P/F.
+- Students must declare P/F election before the end of the 5th week of the term.
+- P/F elections are irrevocable after the declaration deadline.
+- A "Pass" requires a grade of D or above; a D- does not constitute a pass at MIT.
+
+A.3 Freshman Grading
+- All subjects taken in the freshman fall semester are graded Pass/No-Record (P/NR).
+  A grade of A, B, C, or D is recorded as "P" (Pass); F is recorded as "NR" (No Record).
+- Starting in the freshman spring semester, letter grades appear on the transcript.
+- P/NR grades do not count toward GPA.
+
+A.4 Incomplete Grades
+- A grade of "I" (Incomplete) may be assigned when a student cannot complete coursework 
+  due to documented extenuating circumstances.
+- Incomplete grades must be resolved within one term (Fall → resolved by end of Spring; 
+  Spring → resolved by end of Fall).
+- An unresolved Incomplete converts to a grade of "F" after the resolution deadline.
+- Students with an outstanding Incomplete may not enroll in the next term's subject 
+  that requires the incomplete subject as a prerequisite until the Incomplete is resolved.
+
+A.5 Grade Changes
+- Faculty may submit grade changes within one academic year of the original grade posting.
+- Grade changes for reasons other than clerical error require departmental dean approval.
+
+SECTION B: REGISTRATION AND ENROLLMENT
+---------------------------------------
+
+B.1 Credit Limits
+- Freshmen (fall): maximum 54 units per semester
+- Freshmen (spring): maximum 54 units per semester
+- Sophomores, Juniors, Seniors: maximum 57 units per semester (standard)
+- Overload petition: students above 4th semester may petition for up to 66 units; 
+  overloads require academic advisor sign-off and dean approval
+- Minimum enrollment for aid eligibility: 36 units per semester
+
+B.2 Add/Drop Deadlines
+- Add deadline: end of Week 2 of the semester
+- Drop deadline (without W on transcript): end of Week 5 of the semester  
+- Late drop deadline (W appears on transcript): end of Week 10 of the semester
+- Subjects dropped after Week 10 require a petition and dean approval; 
+  a "W" (withdrawal) appears on the transcript
+
+B.3 Enrollment in Prerequisites
+- Students must have completed all listed prerequisites before enrolling in a subject.
+- Concurrent enrollment (co-requisite) is permitted only where explicitly noted in the 
+  course catalog entry (e.g., 6.006 allows concurrent enrollment in 6.042J).
+- The Registrar enforces prerequisite checking at enrollment; students who do not meet 
+  prerequisites must obtain written instructor permission to override the prerequisite block.
+- Instructor permission to enroll does NOT waive the academic requirement—if a student 
+  earns a failing grade in a prerequisite subject they never completed, the subsequent 
+  subject credit may be withheld pending review.
+
+B.4 Cross-Registration
+- MIT students may cross-register at Harvard University for subjects not offered at MIT.
+- Cross-registered subjects must be approved by the student's academic advisor and the 
+  MIT Registrar.
+- Credit awarded for cross-registered subjects counts as transfer credit (see Section D).
+
+SECTION C: REPETITION OF SUBJECTS
+------------------------------------
+
+C.1 General Policy
+- Students may repeat any subject for which they received a D or F.
+- Both the original grade and the repeat grade appear on the official transcript.
+- The higher of the two grades counts toward satisfying prerequisite requirements.
+- Both grades are included in GPA calculation (no grade replacement).
+- A subject may be repeated at most twice (original attempt + 2 retakes); 
+  a third attempt requires petition to the EECS Undergraduate Office.
+
+C.2 Impact on Financial Aid
+- Repeated subjects where a passing grade (C or above) was previously earned 
+  may not count toward minimum enrollment for financial aid purposes.
+
+SECTION D: TRANSFER CREDIT
+-----------------------------
+
+D.1 Advanced Placement (AP) Credit
+- AP Calculus BC (score 5): satisfies 18.01 (Calculus I)
+- AP Chemistry (score 5): satisfies Chemistry GIR (3.091 equivalent)
+- AP Physics C: Mechanics (score 5): satisfies Physics I GIR (8.01 equivalent)
+- AP Computer Science A (score 5): may earn up to 6 units of unrestricted elective 
+  credit; does NOT satisfy 6.009 or any Foundation requirement
+- AP credit is awarded after submission of official AP score reports to the MIT Registrar
+
+D.2 Transfer Subjects
+- Transfer subjects from accredited institutions may be approved for MIT credit.
+- Maximum 60 units of transfer credit may count toward the 180-unit graduation requirement.
+- Foundation Subjects (6.009, 6.042J, 6.004, 6.006) cannot be satisfied by transfer 
+  credit without written approval from the EECS Undergraduate Committee.
+- Transfer credit requests must be submitted with a course syllabus and instructor 
+  contact for verification; processing takes 4–8 weeks.
+
+D.3 International Transfer Credit
+- Credit from non-US institutions is evaluated on a case-by-case basis by the 
+  MIT International Students Office in consultation with the relevant department.
+
+SECTION E: WITHDRAWAL AND LEAVE OF ABSENCE
+--------------------------------------------
+
+E.1 Medical Leave
+- Students may take a medical leave of absence with documentation from MIT Medical.
+- Credit taken during the leave term is voided.
+- Subjects in progress at time of leave receive a grade of "W" (withdrawn).
+
+E.2 Personal Leave
+- Students may take up to two semesters of personal leave.
+- Leave must be declared before the end of Week 10 of the semester.
+- Students on leave must apply for reinstatement at least 6 weeks before their 
+  intended return term.
+
+E.3 Academic Withdrawal
+- Students with a cumulative GPA below 2.0 after two consecutive semesters may be 
+  subject to academic withdrawal.
+- Academic withdrawal is processed by the Committee on Academic Performance (CAP).
+
+SECTION F: PREREQUISITE EXCEPTIONS AND INSTRUCTOR CONSENT
+-----------------------------------------------------------
+
+F.1 Instructor Consent Override
+- An instructor may grant consent to waive a specific prerequisite.
+- Consent must be documented in writing (email to registrar@mit.edu cc'd to the student).
+- Instructor consent does NOT waive ALL prerequisites; it applies only to the 
+  specific prerequisite listed in the consent document.
+- Instructor consent may not be used to enroll in a subject where the student 
+  has an outstanding F in the prerequisite that has not been retaken.
+
+F.2 Prerequisite Substitution
+- A student may petition the EECS Undergraduate Office to substitute an equivalent 
+  subject for a listed prerequisite (e.g., a graduate-level stat course in lieu of 18.650).
+- Substitution petitions require: (a) course syllabi for both subjects, (b) advisor 
+  signature, (c) instructor signature for the target subject.
+
+F.3 Concurrent Prerequisites (Co-requisites)
+- When a subject lists a co-requisite, the co-requisite may be:
+  (a) taken concurrently in the same term, OR
+  (b) completed in a previous term (satisfies the co-requisite by prior completion)
+- A co-requisite may NOT be deferred to a future term after taking the subject; 
+  the student must take it either before or at the same time.
+
+SECTION G: ACADEMIC INTEGRITY
+-------------------------------
+
+G.1 Honor Code
+- All work submitted must be the student's own unless explicitly authorized for collaboration.
+- Violations of the MIT Academic Integrity policy may result in subject failure, 
+  suspension, or expulsion.
+
+G.2 Collaboration Policy
+- Each subject sets its own collaboration policy; students must read and follow 
+  the subject's stated policy.
+- When in doubt, students should consult the instructor before collaborating.
+
+SECTION H: ADVISING AND PLANNING RESOURCES
+--------------------------------------------
+
+H.1 Academic Advisors
+- Each EECS undergraduate is assigned a faculty advisor who must approve term course plans.
+- Advisor approval is required for: overloads, late drops, leave of absence, 
+  and prerequisite petitions.
+
+H.2 EECS Undergraduate Office
+- Location: 38-476 (Building 38, Room 476)
+- Email: ug-eecs@mit.edu
+- Office hours: Monday–Friday, 9am–5pm ET
+
+H.3 Schedule of Classes
+- MIT's official schedule of classes (which lists actual section times and availability) 
+  is published at student.mit.edu/cgi-bin/sfprwsch.sh
+- Course catalog entries list which terms a subject is "typically offered" but do NOT 
+  guarantee offering in any specific year; always verify using the Schedule of Classes.
+
+H.4 Degree Audit
+- Students may view their degree audit (completed requirements vs. remaining requirements) 
+  via the MIT WebSIS portal at: websis.mit.edu
+- The degree audit is updated within 2 weeks after each term's grades are posted.

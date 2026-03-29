@@ -1,0 +1,231 @@
+SOURCE: MIT Course Catalog - Computer Science (EECS Department)
+URL: https://student.mit.edu/catalog/m6a.html
+DATE ACCESSED: 2026-03-27
+COVERAGE: 6-3 Computer Science and Engineering course listings with prerequisites
+
+==============================================================================
+6.009 / 6.009 Fundamentals of Programming
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: None
+Description: Introduction to programming and computational problem solving using Python. Topics include computation models, data types, functions, recursion, algorithms, object-oriented programming, and software engineering principles. Weekly lab sessions provide hands-on programming experience.
+Offered: Fall, Spring, Summer
+Credit: 12 units
+
+==============================================================================
+6.042J / 18.062J Mathematics for Computer Science
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: Calculus I (18.01 or equivalent)
+Description: Elementary discrete mathematics for science and engineering. Topics include formal logic notation, proof methods, induction, sets, relations, graph theory, integer arithmetic, probability, and counting. Emphasizes mathematical reasoning and applying tools of discrete math to computer science problems.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+6.004 Computation Structures
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: 6.009
+Description: Fundamentals of digital design and computer architecture. Covers combinational and sequential logic, finite state machines, instruction set architectures, pipelining, caching, and memory hierarchies. Weekly labs use simulation tools to design circuits and processors.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+6.006 Introduction to Algorithms
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: 6.009; 6.042J or concurrent enrollment in 6.042J
+Description: Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve them. Topics include sorting, hash tables, searching, dynamic programming, graph algorithms, and shortest paths. Emphasis on algorithm design and analysis.
+Offered: Fall, Spring
+Credit: 12 units
+Note: Students may take 6.042J concurrently as a co-requisite.
+
+==============================================================================
+6.034 Artificial Intelligence
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: 6.009
+Description: Introduction to artificial intelligence. Topics include problem solving (search), knowledge representation, inference, planning, machine learning, neural networks, probabilistic reasoning, and natural language processing. Weekly lab assignments in Python.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.036 Introduction to Machine Learning
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: 6.006; 18.06 or 18.C06J; 18.650 or 6.041B or permission of instructor
+Description: Principles, algorithms, and applications of machine learning from the point of view of modeling and prediction. Topics include linear models, classification, neural networks, deep learning, generalization, and unsupervised learning. Weekly programming labs.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+6.046J Design and Analysis of Algorithms
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: 6.006
+Description: Techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics include amortized analysis, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, computational geometry, number-theoretic algorithms, polynomial and matrix calculations, caching, and parallel computing.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+6.031 Software Construction
+==============================================================================
+Units: 15 (4-6-5)
+Prerequisites: 6.009
+Description: Principles of software construction: safety from bugs, ease of understanding, and readiness for change. Topics include specifications, unit testing, abstract data types, design patterns, concurrency, and version control. Extensive programming in Java.
+Offered: Fall, Spring
+Credit: 15 units
+
+==============================================================================
+6.033 Computer Systems Engineering
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.004; 6.009
+Description: Topics on the engineering of computer software and hardware systems: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and fault tolerance. Substantial writing component.
+Offered: Fall, Spring
+Credit: 12 units
+CI-M (Communication Intensive in Major) Subject
+
+==============================================================================
+6.814 Database Systems
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.033
+Description: Topics include design of database systems, the relational model, relational algebra, SQL, schema normalization, transaction management, concurrency control, crash recovery, B-trees, hash indexing, and query optimization. Students complete a semester-long project to implement a database system.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.824 Distributed Systems
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.033; 6.004
+Description: Principles of distributed computer systems. Topics include fault tolerance, replication, consistency models, distributed transactions, consensus algorithms (Paxos, Raft), map-reduce, Spanner, and case studies of real systems. Labs involve building distributed systems in Go.
+Offered: Spring
+Credit: 12 units
+
+==============================================================================
+6.830 Database Systems (Graduate)
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.814 or permission of instructor
+Description: Graduate-level topics in database systems including query processing, query optimization, storage systems, parallel and distributed databases, column stores, and modern hardware considerations.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.035 Computer Language Engineering
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.004; 6.031
+Description: Analyzes issues associated with the implementation of higher-level programming languages. Topics include syntax analysis, handling of user-defined types and type-checking, context-sensitive analysis, code generation, and optimization. Students build a compiler as a semester-long project.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.041 Probabilistic Systems Analysis
+==============================================================================
+Units: 12 (4-4-4)
+Prerequisites: 18.02; 6.042J or concurrent enrollment
+Description: Introduction to probability and applications. Topics include probability spaces, random variables, expectations, transforms, Bernoulli and Poisson processes, finite Markov chains, and limit theorems.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+6.867 Machine Learning (Graduate)
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.036; 18.06; 18.650 or 6.041
+Description: Graduate-level machine learning covering statistical learning theory, kernel methods, support vector machines, graphical models, inference, and deep learning from a theoretical perspective.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.854J Advanced Algorithms
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.046J
+Description: Advanced topics in the design and analysis of algorithms: amortized data structures, network flow algorithms, linear programming, randomized algorithms, online algorithms, approximation algorithms, and computational geometry.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.858 Computer Systems Security
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.033
+Description: Design and implementation of secure computer systems. Topics include threat models, attacks, and defenses at system, network, and application layers. Topics include buffer overflows, sandboxing, web security, network security, cryptography, and anonymous communication.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.829 Computer Networks
+==============================================================================
+Units: 12 (3-3-6)
+Prerequisites: 6.033
+Description: Topics include routing, congestion control, software-defined networking, data center networks, network measurement, and wireless networks. Students complete labs involving implementation and analysis of networking protocols.
+Offered: Fall
+Credit: 12 units
+
+==============================================================================
+6.UAT Oral Communication (CI-M)
+==============================================================================
+Units: 6 (2-0-4)
+Prerequisites: Permission of instructor; enrollment restricted to 6-3 students in their senior year
+Description: Provides practice in oral communication skills for computer scientists. Topics include technical presentations, interview skills, and professional communication. Fulfills CI-M requirement for Course 6-3.
+Offered: Fall, Spring
+Credit: 6 units
+
+==============================================================================
+6.UAP Undergraduate Advanced Project
+==============================================================================
+Units: 12 (0-4-8)
+Prerequisites: Senior standing in Course 6; minimum GPA of 4.0; permission of supervising faculty
+Description: Independent research project supervised by a faculty member. Students complete a substantial project in computer science and present their work in written and oral form.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+18.01 Calculus I (Single Variable)
+==============================================================================
+Units: 12 (5-0-7)
+Prerequisites: None (placement exam recommended)
+Description: Differentiation and integration of functions of one variable, with applications. Topics include limits, derivatives, chain rule, implicit differentiation, related rates, max/min, definite and indefinite integrals, fundamental theorem of calculus.
+Offered: Fall, Spring, Summer
+Credit: 12 units
+
+==============================================================================
+18.02 Calculus II (Multivariable)
+==============================================================================
+Units: 12 (5-0-7)
+Prerequisites: 18.01
+Description: Calculus of several variables. Topics include vectors and vector-valued functions, partial derivatives, double and triple integrals, line integrals, surface integrals, Green's theorem, Stokes' theorem, and the divergence theorem.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+18.06 Linear Algebra
+==============================================================================
+Units: 12 (4-0-8)
+Prerequisites: 18.02
+Description: Basic subject on matrix theory and linear algebra, emphasizing topics useful in other disciplines. Topics include systems of equations, vector spaces, matrices and linear transformations, determinants, eigenvalues, and positive definite matrices.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+18.650 Statistics for Applications
+==============================================================================
+Units: 12 (4-0-8)
+Prerequisites: 18.02; 6.041 or 18.600
+Description: Topics in statistics with applications. Covers estimation, confidence intervals, hypothesis testing, regression, and Bayesian methods.
+Offered: Fall, Spring
+Credit: 12 units
+
+==============================================================================
+18.600 Probability and Random Variables
+==============================================================================
+Units: 12 (4-0-8)
+Prerequisites: 18.02
+Description: Probability spaces, random variables, distribution functions, densities, expectations, characteristic functions, central limit theorem, Markov chains.
+Offered: Fall, Spring
+Credit: 12 units

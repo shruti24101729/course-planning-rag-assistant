@@ -1,0 +1,192 @@
+SOURCE: MIT Course Catalog - Course 6-3: Computer Science and Engineering Degree Requirements
+URL: https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/
+DATE ACCESSED: 2026-03-27
+COVERAGE: Full degree requirements for 6-3 CS&E bachelor's program
+
+==============================================================================
+COURSE 6-3: COMPUTER SCIENCE AND ENGINEERING
+Bachelor of Science Degree Requirements
+==============================================================================
+
+OVERVIEW
+--------
+The 6-3 program (Computer Science and Engineering) requires 180–198 units of credit, 
+distributed among General Institute Requirements (GIRs), Departmental Program requirements, 
+and electives. Students must maintain a minimum cumulative GPA of 3.5 to remain in good 
+standing in the major.
+
+==============================================================================
+SECTION 1: GENERAL INSTITUTE REQUIREMENTS (GIRs)
+==============================================================================
+
+All MIT undergraduates must complete the GIRs, which include:
+
+Science Core (6 subjects)
+  - Chemistry (GIR): 3.091 or 5.111 or 5.112
+  - Physics I (GIR): 8.01 or 8.01L or 8.012 or 8.01T
+  - Physics II (GIR): 8.02 or 8.02T or 8.022
+  - Biology (GIR): 7.012 or 7.013 or 7.014 or 7.015 or 7.016
+  - Calculus I (GIR): 18.01 or 18.01A
+  - Calculus II (GIR): 18.02 or 18.02A
+
+Laboratory (1 subject):
+  - Any GIR Lab subject
+
+HASS (Humanities, Arts, Social Sciences):
+  - 8 HASS subjects required (at least 2 in each of HASS-A, HASS-H, HASS-S)
+  - At least 2 subjects in a concentration
+
+Communication Requirement:
+  - Phase I (CI-H): 2 Communication-Intensive subjects in HASS
+  - Phase II (CI-M): 1 Communication-Intensive subject in major (6.033 satisfies this)
+
+Physical Education (PE):
+  - 4 PE credits required
+
+==============================================================================
+SECTION 2: DEPARTMENTAL PROGRAM (REQUIRED SUBJECTS)
+==============================================================================
+
+Foundation Subjects (all required):
+  [F1] 6.009 – Fundamentals of Programming (12 units)
+  [F2] 6.042J – Mathematics for Computer Science (12 units)
+  [F3] 6.004 – Computation Structures (12 units)
+  [F4] 6.006 – Introduction to Algorithms (12 units)
+
+Header Subjects (all required):
+  [H1] 6.031 – Software Construction (15 units)
+  [H2] 6.033 – Computer Systems Engineering (12 units) [also satisfies CI-M]
+  [H3] 6.036 – Introduction to Machine Learning (12 units)
+  [H4] 6.046J – Design and Analysis of Algorithms (12 units)
+
+Advanced Undergraduate Subjects (AUS) - 3 required:
+  Students must complete at least THREE (3) AUS subjects from the approved list.
+  At least one AUS must be from the Systems AUS list and at least one from the 
+  Theory/AI AUS list.
+
+  Systems AUS (choose at least 1):
+    - 6.033 (already required as header, does NOT double-count)
+    - 6.814 – Database Systems
+    - 6.824 – Distributed Systems
+    - 6.829 – Computer Networks
+    - 6.858 – Computer Systems Security
+    - 6.035 – Computer Language Engineering
+
+  Theory/AI AUS (choose at least 1):
+    - 6.854J – Advanced Algorithms
+    - 6.867 – Machine Learning (Graduate)
+    - 6.034 – Artificial Intelligence
+
+  Either category:
+    - 6.UAP – Undergraduate Advanced Project (with faculty approval)
+
+Lab AUS (optional but recommended):
+    - 6.UAT – Oral Communication (satisfies CI-M requirement if 6.033 not taken; 
+      cannot double-count with CI-M)
+
+TOTAL AUS REQUIRED: 3 subjects minimum (at least 1 Systems + at least 1 Theory/AI)
+
+==============================================================================
+SECTION 3: UNRESTRICTED ELECTIVES
+==============================================================================
+
+Students must complete sufficient subjects to bring total units to 180 minimum.
+Unrestricted electives may be any MIT subjects or approved transfer subjects.
+Maximum 12 units of physical education may count toward electives.
+
+==============================================================================
+SECTION 4: CREDIT AND UNIT REQUIREMENTS
+==============================================================================
+
+- Minimum total: 180 units for graduation
+- Maximum load per term: 57 units (freshman year); 66 units (upper years)
+  Exception: students may petition for overloads above 57/66 units
+- Minimum passing grade: D (1.0 on 5.0 scale)
+- Subjects graded A-F; pass/fail available for electives only
+- To receive credit for a subject that was previously failed, student must retake
+  and pass; both grades appear on transcript
+
+Residency Requirement:
+- Students must complete at least 4 semesters in residence at MIT
+- At least 3 of the 4 required AUS/Header subjects in the final year must be 
+  taken at MIT (transfer credit for these is limited)
+
+==============================================================================
+SECTION 5: GPA AND STANDING REQUIREMENTS
+==============================================================================
+
+Good Standing:
+- Cumulative GPA of 3.5 or above (on 5.0 scale) is required for good standing in 6-3
+- Students below 3.5 are placed on departmental warning and must meet with advisor
+- Students who remain below 3.5 for two consecutive terms may be asked to transfer 
+  to a different major
+
+Grade Scale (MIT 5.0 system):
+  A (Exceptional) = 5.0
+  B (Good)        = 4.0
+  C (Satisfactory)= 3.0
+  D (Passing)     = 2.0
+  F (Failing)     = 1.0
+
+Prerequisite Grade Requirement:
+- No explicit minimum grade required to satisfy a prerequisite unless stated 
+  in the course catalog entry. A passing grade (D or above) normally satisfies 
+  a prerequisite.
+- However, some instructors may require a grade of C or above; this is noted 
+  in the individual course description or course policy document.
+
+==============================================================================
+SECTION 6: TRANSFER CREDIT AND ADVANCED STANDING
+==============================================================================
+
+- AP credit: Calculus I (18.01) can be satisfied by AP Calculus BC score of 5
+- Transfer credit for MIT subjects: requires petition to the EECS Undergraduate 
+  Office; committee reviews equivalency
+- A maximum of 60 units of transfer credit may count toward the 180-unit minimum
+- Transfer subjects may NOT be used to satisfy Foundation Subjects [F1]–[F4] 
+  without explicit approval from the EECS Undergraduate Committee
+
+==============================================================================
+SECTION 7: DOUBLE-COUNTING RULES
+==============================================================================
+
+- No subject may simultaneously satisfy both a GIR and a departmental requirement
+- CI-M credit: 6.033 satisfies the CI-M requirement; no other departmental 
+  required subject satisfies CI-M
+- An AUS subject may NOT also be used to satisfy a header requirement
+- 6.UAP may satisfy one AUS slot only with written permission from both the 
+  supervising faculty member and the EECS Undergraduate Office
+
+==============================================================================
+SECTION 8: ACADEMIC POLICIES SPECIFIC TO 6-3
+==============================================================================
+
+Freshmen:
+- Freshmen are graded Pass/No Record (P/NR) in the fall semester; grades appear 
+  from the spring semester onward
+- Freshmen may not enroll in 6.004 or 6.006 without completion of 6.009
+- Freshmen may not enroll in more than 54 units in the spring semester
+
+Enrollment in Graduate Subjects:
+- Undergraduates may enroll in 6.800-level (graduate) subjects with permission 
+  of the instructor; instructor permission does not waive listed prerequisites
+- Undergraduates must still complete all listed prerequisites for graduate subjects
+
+Repeated Subjects:
+- A subject may be repeated at most once without special petition
+- Both grades appear on transcript and both count toward GPA
+- If retaken for a better grade, only the higher grade counts toward prerequisite 
+  eligibility (but both remain on transcript)
+
+==============================================================================
+SECTION 9: SAMPLE FOUR-YEAR PLAN (ILLUSTRATIVE, NOT PRESCRIPTIVE)
+==============================================================================
+
+Year 1, Fall:   6.009, 18.01 (GIR), Physics I (GIR), HASS
+Year 1, Spring: 6.042J, 18.02 (GIR), Physics II (GIR), HASS
+Year 2, Fall:   6.004, 6.006, Chemistry (GIR), HASS
+Year 2, Spring: 6.031, 6.033, 6.041, HASS
+Year 3, Fall:   6.036, 6.046J, AUS 1, HASS
+Year 3, Spring: AUS 2, Electives, HASS
+Year 4, Fall:   AUS 3, 6.UAT (CI-M if not satisfied), Electives
+Year 4, Spring: Electives, Unrestricted electives
