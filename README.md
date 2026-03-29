@@ -89,8 +89,8 @@ All documents are in `data/catalog/`. Total: ~30,000+ words across 3 source file
 ### 2. Install
 
 ```bash
-git clone https://github.com/shruti24101729/course-planning-rag.git
-cd course-planning-rag
+git clone https://github.com/shruti24101729/course-planning-rag-assistant.git
+cd course-planning-rag-assistant
 pip install -r requirements.txt
 ```
 
